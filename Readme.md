@@ -1,2 +1,3 @@
 Alterando o arquivo Readme.md.
-Mais uma linha
+Mais uma linha.
+Nova linha.
